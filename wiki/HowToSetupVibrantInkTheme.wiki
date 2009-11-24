@@ -28,8 +28,7 @@ Linux: (Ubuntu)
 Local User:
 mv vibrant_ink_geany/{{{*}}} ~/.config/geany/filedefs
 
-System Wide: *BE SURE TO BACK UP THE EXISTING FILEDEFS IF YOU DON'T WANT TO LOSE THEM!*
-
+System Wide:
 sudo mv vibrant_ink_geany/{{{*}}} /usr/share/geany
 
 Windows: (XP)
@@ -37,8 +36,7 @@ Windows: (XP)
 Local User:
 C:\Documents and Settings\YOURUSERNAME\Application Data\geany\filedefs
 
-System Wide: *BE SURE TO BACK UP THE EXISTING FILEDEFS IF YOU DON'T WANT TO LOSE THEM!*
-
+System Wide:
 C:\Program Files\Geany\data
 
 Mac:
