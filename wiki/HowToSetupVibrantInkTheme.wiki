@@ -1,0 +1,32 @@
+#summary Instructions for Installing Vibrant Ink Theme for Geany
+
+= Introduction =
+
+How to Install the Vibrant Ink Theme
+
+Note: I don't own a Mac, so feel free to contribute instructions if you'd like!
+
+
+= Download & Extract Archive =
+
+Linux: (Ubuntu)
+
+tar -zxvf vibrant_ink_geany.tar.gz
+
+Windows: (XP) 
+
+Mac:
+
+= Installation =
+
+Linux: (Ubuntu)
+
+Local User:
+mv vibrant_ink_geany/* ~/.config/geany/filedefs
+
+System Wide:
+sudo mv vibrant_ink_geany/* /usr/share/geany
+
+Windows: (XP)
+
+Mac:
