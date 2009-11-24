@@ -22,10 +22,10 @@ Mac:
 Linux: (Ubuntu)
 
 Local User:
-mv vibrant_ink_geany/\* ~/.config/geany/filedefs
+mv vibrant_ink_geany/{{{*}}} ~/.config/geany/filedefs
 
 System Wide:
-sudo mv vibrant_ink_geany/\* /usr/share/geany
+sudo mv vibrant_ink_geany/{{{*}}} /usr/share/geany
 
 Windows: (XP)
 
