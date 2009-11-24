@@ -12,8 +12,12 @@ Note: I don't own a Mac, so feel free to contribute instructions if you'd like!
 Linux: (Ubuntu)
 
 tar -zxvf vibrant_ink_geany.tar.gz
+OR
+unzip vibrant_ink_geany.zip
 
 Windows: (XP) 
+
+Extract the files to vibrank_ink_geany using Extraction Wizard
 
 Mac:
 
@@ -24,9 +28,14 @@ Linux: (Ubuntu)
 Local User:
 mv vibrant_ink_geany/{{{*}}} ~/.config/geany/filedefs
 
-System Wide:
+System Wide: *BE SURE TO BACK UP THE EXISTING FILEDEFS IF YOU DON'T  WANT TO LOSE THEM!*
 sudo mv vibrant_ink_geany/{{{*}}} /usr/share/geany
 
 Windows: (XP)
 
+Local User:
+C:\Documents and Settings\YOURUSERNAME\Application Data\geany\filedefs
+
+System Wide: *BE SURE TO BACK UP THE EXISTING FILEDEFS IF YOU DON'T  WANT TO LOSE THEM!*
+C:\Program Files\Geany\data
 Mac:
