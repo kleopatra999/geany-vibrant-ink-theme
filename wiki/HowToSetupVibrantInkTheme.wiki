@@ -35,6 +35,8 @@ sudo mv vibrant_ink_geany/{{{*}}} /usr/share/geany
 
 Windows: (XP)
 
+Copy Extracted files to...
+
 Local User:
 
 C:\Documents and Settings\YOURUSERNAME\Application Data\geany\filedefs
