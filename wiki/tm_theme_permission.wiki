@@ -13,7 +13,8 @@ Cheers,
 
 http://alternateidea.com | http://labratrevenge.com | http://entp.com
 
-{{{--00163692089b3338650479736df7
+{{{
+--00163692089b3338650479736df7
 Content-Type: text/html; charset=ISO-8859-1
 Content-Transfer-Encoding: 8bit
 
@@ -23,4 +24,5 @@ I&#39;ve picked the Artistic License/GPL because it seemed the most compatible.
 
 <br></div><div>[1] <a href="http://code.google.com/p/vibrant-ink-textmate/">http://code.google.com/p/vibrant-ink-textmate/</a><br><div><br></div><div><br></div><div>-Tyler</div></div>
 
---00163692089b3338650479736df7--}}}
+--00163692089b3338650479736df7--
+}}}
