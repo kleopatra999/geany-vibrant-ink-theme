@@ -1,4 +1,5 @@
 #summary Instructions for Installing Vibrant Ink Theme for Geany
+#labels Featured
 
 = Introduction =
 
