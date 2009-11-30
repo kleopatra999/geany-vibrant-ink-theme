@@ -1,5 +1,5 @@
+#summary Place your ideas/comments/suggestions here
 #labels Phase-Support,Featured
-#Place your ideas/comments/suggestions here
 
 = Contributions =
 
