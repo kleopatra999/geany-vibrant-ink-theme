@@ -1,0 +1,17 @@
+#labels Phase-Requirements,Featured
+#Licensing Permission from the author of the Notepad++ port:
+
+>
+> I've picked the Artistic License/GPL because it seemed the most compatible.
+> Is that acceptable?
+
+
+That seems reasonable, it looks like the original is under the GPLv3 [1] so
+you may wish to go with that. I would probably argue that the color scheme
+is un-copyrightable anyway, and my port should have been released under an
+MIT/Apache/BSD style license.
+
+[1] http://code.google.com/p/vibrant-ink-textmate/
+
+
+-Tyler
