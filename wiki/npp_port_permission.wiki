@@ -1,5 +1,5 @@
+#summary Licensing Permission from the author of the Notepad++ port:
 #labels Phase-Requirements,Featured
-#Licensing Permission from the author of the Notepad++ port:
 
 >
 > I've picked the Artistic License/GPL because it seemed the most compatible.
