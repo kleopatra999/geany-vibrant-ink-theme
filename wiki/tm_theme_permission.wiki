@@ -1,5 +1,5 @@
+#summary Permission from the author of the Textmate theme
 #labels Phase-Requirements,Featured
-#Permission from the author of the Textmate theme
 
 
 Hi Jason,
