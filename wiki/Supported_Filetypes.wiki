@@ -1,7 +1,7 @@
 #summary All of the file types this theme supports
+#labels Phase-Support,Featured
 
 Highlighting is supported for the following file types:
-
  * .actionscript
  * .ada
  * .asm
