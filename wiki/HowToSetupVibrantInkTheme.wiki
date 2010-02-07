@@ -28,7 +28,7 @@ Linux: (Ubuntu)
 
 Local User:
 
-mv vibrant_ink_geany/{{{*}}} ~/.config/geany/filedefs
+mv vibrant_ink_geany/{{{*}}} ~/.config/geany
 
 System Wide: *BE SURE TO BACK UP THE EXISTING FILEDEFS IF YOU DON'T WANT TO LOSE THEM!*
 
@@ -40,7 +40,7 @@ Copy Extracted files to...
 
 Local User:
 
-C:\Documents and Settings\YOURUSERNAME\Application Data\geany\filedefs
+C:\Documents and Settings\YOURUSERNAME\Application Data\geany
 
 System Wide: *BE SURE TO BACK UP THE EXISTING FILEDEFS IF YOU DON'T WANT TO LOSE THEM!*
 
